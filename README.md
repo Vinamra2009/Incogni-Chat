@@ -12,6 +12,3 @@ Chat with everyone online
 
 Connect with a random user online
 
-### Note:
-
-This app runs on different servers hosted on glitch. The chatting might not fuction properly until the servers are online
